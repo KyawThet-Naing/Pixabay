@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "setting": "Setting",
+  "language": "Language",
+  "dark_mode": "Dark Mode",
+  "download_image": "Downloaded Image",
+  "search": "Search",
+  "hint": "Image Name",
+  "err": "Image name is required !",
+  "tag": "Tags",
+  "download": "Download",
+  "img_detail": "Image Details",
+  "saved": "Successfully Saved.",
+  "no_image": "No Image Available!"
+}
